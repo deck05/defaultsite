@@ -1,2 +1,3 @@
 # defaultsite
-my personal website
+John Lugtu Portfolio
+
