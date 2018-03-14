@@ -4,13 +4,10 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>http://johnlugtu.ca/</loc>
-  <lastmod>2018-03-13T06:22:56+00:00</lastmod>
 </url>
-
-
+<url>
+  <loc>http://www.johnlugtu.ca/</loc>
+</url>
 </urlset>
